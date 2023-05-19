@@ -1,0 +1,21 @@
+python_fortune
+==============
+
+A very simple implementation of fortune in Python with
+pseudo-random cookie generation. (Uses the default random.SystemGenerator
+to collect entropy from hardware interrupts.)
+
+To install, copy/rename the fortune.py script to /usr/local/bin/fortune,
+and add the following to your $HOME/.profile file:
+
+    [ -x "/usr/local/bin/fortune" ] && /usr/local/bin/fortune 2>&1
+
+To customize the fortune files data directory, set the FORTUNE_DATADIR
+environment variable like so:
+
+    export FORTUNE_DATADIR=/usr/local/share/mydatadir
+
+By default, the script will try to use $HOME/etc/fortune.d as the data directory
+for data files.
+
+Etienne Robillard <smart@open-neurosecurity.org>

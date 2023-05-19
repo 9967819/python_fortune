@@ -1,0 +1,11 @@
+[ass] **MSGL_V**: Not understood: Comment: 0,0:00:16.38,0:01:30.04,Standard (LH),Comment,0000,0000,0000,,<< Opening >>  
+[ass] **MSGL_V**: Not understood: Comment: 0,0:04:03.79,0:04:07.87,Standard (LH),,0000,0000,0000,,<< Song... Is this worth a karaoke? >>  
+[ass] **MSGL_V**: Not understood: Comment: 0,0:06:00.01,0:06:02.19,Standard (LH),,0000,0000,0000,,<< End of song >>  
+[ass] **MSGL_V**: Not understood: Comment: 0,0:07:44.04,0:07:44.29,Standard (LH),,0000,0000,0000,,<< WTF ANOTHER DAMN SONG >>  
+[ass] **MSGL_V**: Not understood: Comment: 0,0:08:49.86,0:08:49.86,Standard (LH),,0000,0000,0000,,<< End of Song >>  
+[ass] **MSGL_V**: Not understood: Comment: 0,0:11:17.40,0:11:35.05,Standard (LH),,0000,0000,0000,,<< Episode Break >>  
+[ass] **MSGL_V**: Not understood: Comment: 0,0:14:09.38,0:14:10.51,Standard (LH),,0000,0000,0000,,<< WTF MORE GODDAMN SONGS >>  
+[ass] **MSGL_V**: Not understood: Comment: 0,0:15:27.51,0:15:29.95,Standard (LH),,0000,0000,0000,,<< PFF this is more or less the end of this song @.@ >>  
+[ass] **MSGL_V**: Not understood: Comment: 0,0:20:42.93,0:21:30.55,Standard (LH),Comment,0000,0000,0000,,<< GOD HOW MANY FUCKING SONGS DOES THIS EPISODE HA... owai~ Ending >>  
+[ass] **MSGL_V**: event at 92297562, +1730: 85,0,Standard (LH),Comment,0000,0000,0000,,What the heck am I doing?  
+
