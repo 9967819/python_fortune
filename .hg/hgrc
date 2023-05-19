@@ -1,4 +1,0 @@
-[web]
-name = python_fortune
-description = Rewrite of /usr/games/fortune in Python.
-contact = erob
